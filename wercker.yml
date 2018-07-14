@@ -3,4 +3,4 @@ box: ubuntu
 build:
   steps:
     - markxnelson/private-step
-    - gilbode/test-private-step@1.0.1
+    #- gilbode/test-private-step@1.0.1
