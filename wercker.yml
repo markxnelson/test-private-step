@@ -8,4 +8,6 @@ build:
 test:
   steps:
     - script:
-      code: sleep 10000
+      code: |
+        ls
+        sleep 10000
